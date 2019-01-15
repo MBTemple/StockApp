@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Stock</string>
+    <string name="add">Añadir</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="emptyPortfolio">Introduzca una acción en su cartera.</string>
+    <string name="symbol">Símbolo de stock</string>
+    <string name="noSymbol">No se ha encontrado stock con ese símbolo de teletipo.</string>
+    <string name="stockExists">Esa acción ya existe en su cartera.</string>
+
+    <string name="hint">Ingrese el nombre del ticker…</string>
+</resources>
